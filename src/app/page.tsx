@@ -13,7 +13,7 @@ import { Award, Camera, Eye, Heart, Mail, Star, Users } from "lucide-react";
 export default function Home() {
   return (
     <ThemeProvider
-      defaultButtonVariant={"shift-hover"}
+      defaultButtonVariant={"hover-bubble"}
       defaultTextAnimation={"background-highlight"}
       borderRadius={"pill"}
       contentWidth={"medium"}
