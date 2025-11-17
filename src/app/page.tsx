@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -172,8 +172,7 @@ export default function Home() {
               company: "Wedding Client",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763371990265-1x0e2aoz.jpg",
-              imageAlt: "Sarah Johnson testimonial",
-              content: "The photos from our wedding day exceeded all our expectations. Every moment was captured beautifully and the artistic vision was exactly what we dreamed of."
+              imageAlt: "Sarah Johnson testimonial"
             },
             {
               id: "2",
@@ -182,8 +181,7 @@ export default function Home() {
               company: "Corporate Client",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763371991396-072r3rka.jpg",
-              imageAlt: "Michael Chen testimonial",
-              content: "Professional headshots that perfectly captured our brand essence. The attention to detail and creative approach made all the difference for our corporate imagery."
+              imageAlt: "Michael Chen testimonial"
             },
             {
               id: "3",
@@ -192,8 +190,7 @@ export default function Home() {
               company: "Engagement Session",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763371992644-ktfte9f0.jpg",
-              imageAlt: "Emily and David testimonial",
-              content: "Our engagement photos tell our love story perfectly. The natural poses and stunning locations created memories we'll treasure forever."
+              imageAlt: "Emily and David testimonial"
             },
             {
               id: "4",
@@ -202,8 +199,7 @@ export default function Home() {
               company: "Portrait Session",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763371993862-vpx82lzd.jpg",
-              imageAlt: "Lisa Rodriguez testimonial",
-              content: "Beautiful family portraits that captured our children's personalities perfectly. The session was fun and relaxed, resulting in authentic smiles and precious memories."
+              imageAlt: "Lisa Rodriguez testimonial"
             }
           ]}
         />
