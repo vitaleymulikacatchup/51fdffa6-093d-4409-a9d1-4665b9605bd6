@@ -58,7 +58,7 @@ export default function Home() {
               imageAlt: "Street photography"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763371975322-esl6vcid.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763386188330-qk51tojo.jpg",
               imageAlt: "Fashion photography"
             }
           ]}
