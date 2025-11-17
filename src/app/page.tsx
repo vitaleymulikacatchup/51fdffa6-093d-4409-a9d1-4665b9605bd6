@@ -64,7 +64,7 @@ export default function Home() {
           ]}
           buttons={[
             {
-              text: "View Gallery",
+              text: "See My Work",
               href: "gallery"
             },
             {
